@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,11 +6,6 @@ public class Main {
 //        task3();
 //        task4();
         task5();
-//        task6();
-//        task7();
-//        task8();
-//        task9();
-//        task10();
 
     }
 
